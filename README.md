@@ -1,3 +1,8 @@
+# Python turtle
+this is apart of a project we did using python to code with a turtle package, this allows to create lines, shapes, filled shapes, and even text. This can be used to create full drawings of quite anything; However it is very ineficant and is very tedious.
+This is the work that I did for turtle, and some of the projects I did, along with some of the drawnigs that I created using turtle with python.
+
+
 # CS
 A github REPO for my comuter science class. This will include MOST of the work that I do in/for my class
 
